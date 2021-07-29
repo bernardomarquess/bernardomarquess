@@ -1,4 +1,4 @@
-## Prazer, Bernardo Marques 👋
+## Fala meu anjo, Bernardo Marques aqui 👋
  <div>
   <a href="https://github.com/bernardomarquess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardomarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
